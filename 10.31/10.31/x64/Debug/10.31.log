@@ -1,0 +1,3 @@
+﻿  text.c
+D:\编程-B站鹏哥\10.31\10.31\text.c(8,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  10.31.vcxproj -> D:\编程-B站鹏哥\10.31\x64\Debug\10.31.exe
